@@ -263,3 +263,5 @@ timestamp,city,temperature,description
 2025-12-19T08:21:59.953Z,London,7.61,overcast clouds
 2025-12-19T10:16:44.407Z,London,8.67,broken clouds
 2025-12-19T10:16:44.409Z,London,8.67,broken clouds
+2025-12-19T12:30:01.784Z,London,10.78,scattered clouds
+2025-12-19T12:30:01.821Z,London,10.78,scattered clouds
