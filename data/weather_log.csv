@@ -599,3 +599,5 @@ timestamp,city,temperature,description
 2026-01-02T08:21:49.639Z,London,1.08,overcast clouds
 2026-01-02T10:15:41.221Z,London,1.93,broken clouds
 2026-01-02T10:15:41.223Z,London,1.93,broken clouds
+2026-01-02T12:30:03.036Z,London,3.32,broken clouds
+2026-01-02T12:30:03.038Z,London,3.32,broken clouds
