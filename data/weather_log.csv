@@ -595,3 +595,5 @@ timestamp,city,temperature,description
 2026-01-02T04:35:26.486Z,London,2.46,moderate rain
 2026-01-02T06:24:48.523Z,London,1.35,light rain
 2026-01-02T06:24:48.525Z,London,1.35,light rain
+2026-01-02T08:21:49.637Z,London,1.08,overcast clouds
+2026-01-02T08:21:49.639Z,London,1.08,overcast clouds
