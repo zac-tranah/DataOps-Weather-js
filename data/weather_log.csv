@@ -675,3 +675,5 @@ timestamp,city,temperature,description
 2026-01-05T12:34:29.045Z,London,1.87,clear sky
 2026-01-05T14:19:14.137Z,London,2.54,clear sky
 2026-01-05T14:19:14.139Z,London,2.54,clear sky
+2026-01-05T16:20:58.628Z,London,1.38,scattered clouds
+2026-01-05T16:20:58.630Z,London,1.38,scattered clouds
