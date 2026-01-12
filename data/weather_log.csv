@@ -833,3 +833,5 @@ timestamp,city,temperature,description
 2026-01-12T03:43:52.451Z,London,9.88,few clouds
 2026-01-12T04:44:28.192Z,London,9.81,scattered clouds
 2026-01-12T04:44:28.194Z,London,9.81,scattered clouds
+2026-01-12T06:28:02.128Z,London,10,broken clouds
+2026-01-12T06:28:02.130Z,London,10,broken clouds
