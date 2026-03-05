@@ -2021,3 +2021,5 @@ timestamp,city,temperature,description
 2026-03-05T04:33:20.767Z,London,5.19,clear sky
 2026-03-05T06:15:26.081Z,London,6.09,fog
 2026-03-05T06:15:26.083Z,London,6.09,fog
+2026-03-05T08:09:53.874Z,London,6.64,mist
+2026-03-05T08:09:53.879Z,London,6.64,mist
