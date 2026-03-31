@@ -2635,3 +2635,5 @@ timestamp,city,temperature,description
 2026-03-30T22:10:45.080Z,London,9.28,clear sky
 2026-03-31T00:20:54.485Z,London,9.02,broken clouds
 2026-03-31T00:20:54.716Z,London,9.02,broken clouds
+2026-03-31T03:02:50.804Z,London,8.25,overcast clouds
+2026-03-31T03:02:50.807Z,London,8.25,overcast clouds
