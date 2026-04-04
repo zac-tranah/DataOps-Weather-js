@@ -2740,3 +2740,5 @@ timestamp,city,temperature,description
 2026-04-04T08:11:14.346Z,London,10.3,few clouds
 2026-04-04T10:08:49.008Z,London,12.84,broken clouds
 2026-04-04T10:08:49.010Z,London,12.84,broken clouds
+2026-04-04T12:08:48.480Z,London,13.8,overcast clouds
+2026-04-04T12:08:48.482Z,London,13.8,overcast clouds
